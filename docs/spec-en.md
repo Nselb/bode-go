@@ -2,10 +2,10 @@
 
 ## Problem
 
-Small business with one or more warehouses can't
+Small businesses with one or more warehouses can't
 tell how much stock they have of each product or
 where it is. They promise items they don't have,
-take too long to confirm availability and loose
+take too long to confirm availability and lose
 customers.
 
 ## Goals
@@ -39,7 +39,7 @@ never role names.
 | -------------------- | --------------------------------------- | ----- | --------------- | ------ |
 | `user:manage`        | Manage users and role assignments.      | yes   | no              | no     |
 | `warehouse:manage`   | Create and edit warehouses              | yes   | no              | no     |
-| `products:manage`    | Create and edit products                | yes   | no              | no     |
+| `product:manage`     | Create and edit products                | yes   | no              | no     |
 | `movement:create`    | Register inbound, outbound, adjustments | yes   | yes             | no     |
 | `transfer:manage`    | Create and receive transfers            | yes   | yes             | no     |
 | `stock:read`         | Check availability                      | yes   | yes             | yes    |
