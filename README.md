@@ -1,5 +1,7 @@
 # BodeGO
 
+![CI](https://github.com/Nselb/bode-go/actions/workflows/CI/badge.svg)
+
 ## Description
 
 Inventory management solution for small business.
