@@ -1,0 +1,11 @@
+packages:
+  - apps/*
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true
+  lefthook: true
+  lmdb: true
+  msgpackr-extract: true
+catalog:
+  vitest: ^5.0.0
+  '@vitest/coverage-v8': ^5.0.0
