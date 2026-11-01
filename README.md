@@ -1,6 +1,6 @@
 # BodeGO
 
-![CI](https://github.com/Nselb/bode-go/actions/workflows/CI/badge.svg)
+![CI](https://github.com/Nselb/bode-go/actions/workflows/ci.yml/badge.svg?branch=main)
 
 ## Description
 
