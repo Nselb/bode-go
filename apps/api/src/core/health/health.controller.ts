@@ -7,7 +7,7 @@ export class HealthController {
 
   @Get('live')
   @HealthCheck()
-  healthCheck() {
+  live() {
     return this.health.check([]);
   }
 }
