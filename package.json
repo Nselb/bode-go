@@ -8,6 +8,7 @@
     "format": "prettier -w .",
     "format:check": "prettier -c .",
     "test": "pnpm -r run test",
+    "test:e2e": "pnpm -r run test:e2e",
     "build": "pnpm -r run build",
     "dev": "pnpm -r --parallel run dev"
   },
