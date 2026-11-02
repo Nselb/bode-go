@@ -1,7 +1,9 @@
 {
   "name": "bode-go",
   "version": "1.0.0",
-  "description": "",
+  "author": "Mateo Alvear",
+  "description": "Multi-warehouse inventory management for small businesses",
+  "license": "UNLICENSED",
   "private": true,
   "scripts": {
     "lint": "oxlint --type-aware .",
@@ -13,8 +15,6 @@
     "dev": "pnpm -r --parallel run dev"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
